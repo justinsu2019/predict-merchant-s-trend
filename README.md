@@ -1,5 +1,7 @@
 # predict-merchant-s-trend
 
+###Tips: 1) √ ( √ | √* ) means (it's completed | completed for now but need to update in the future)
+
 # finally, we will need to be able to :
 ## classify merchants by: life cycle(just onboarded / old fellow) / industry / 
 
